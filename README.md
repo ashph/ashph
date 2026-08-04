@@ -1,65 +1,90 @@
 <div align="center">
 
-# Ashley P. Harvey
+<img src="./assets/profile-banner.svg" alt="Ashley P. Harvey — AI Enablement and Talent Strategy" width="100%" />
 
-### AI Enablement & Talent Strategy
+<br/>
 
-**Turning AI adoption into people who actually use it.**
-
-Oakland, California
+![Oakland](https://img.shields.io/badge/Oakland%2C_CA-0A090D?style=for-the-badge&logo=googlemaps&logoColor=F97316)
+![AI Certified](https://img.shields.io/badge/6×_AI_Certified-7C3AED?style=for-the-badge)
+![Human Centered](https://img.shields.io/badge/Human--Centered_AI-F97316?style=for-the-badge&logoColor=white)
 
 </div>
 
----
+## 👋🏾 I make AI useful for the people expected to use it
 
-## About me
+I help non-technical teams turn AI from an impressive demo into a practical part of daily work. My approach blends **12+ years in recruiting and talent strategy** at Google, Salesforce, Amazon, Twitter, Evidation, and Gusto with hands-on AI training, workflow design, and responsible adoption.
 
-I help non-technical teams move AI out of the demo and into daily work.
+> **The technology is only half the rollout. The other half is helping people understand it, trust it, and use it well.**
 
-My approach combines 12+ years of recruiting and talent strategy experience at Google, Salesforce, Amazon, Twitter, Evidation, and Gusto with hands-on AI enablement, workflow design, training, and governance.
+<br/>
 
-I focus on the part of AI transformation that technology alone cannot solve: helping people understand the tools, trust the process, and build new ways of working that last after the training ends.
+## ✦ What I build
 
-## What I build
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Area | What it looks like in practice |
-|---|---|
-| **AI enablement** | Role-specific learning programs, live training, prompt systems, and adoption plans |
-| **Workflow design** | Practical automations that reduce repetitive work without removing human judgment |
-| **Custom AI tools** | GPTs, Claude Projects, and knowledge systems designed around real business needs |
-| **Responsible adoption** | Governance, confidentiality guidance, bias awareness, and human approval points |
-| **Talent strategy** | Market intelligence, recruiting operations, workforce planning, and stakeholder advisory |
+### 🧠 AI Enablement
+Role-specific training, prompt systems, learning programs, and adoption plans built for non-technical teams.
 
-## Selected projects
+</td>
+<td width="50%" valign="top">
 
-### GhosterBuster
-A candidate communication workflow that tracks status changes, drafts timely updates, and clearly marks where recruiter approval is required before anything is sent.
+### ⚙️ Workflow Design
+Practical automations that reduce repetitive work while preserving human judgment and approval.
 
-### RecruitGPT Sourcer
-A recruiting assistant that turns job requirements into sourcing strategy, Boolean searches, target-company lists, and structured market research.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Hiring Manager Intake
-A guided intake workflow that converts stakeholder conversations into clearer role requirements, scorecards, and recruiting plans.
+### 🛠️ Custom AI Tools
+GPTs, Claude Projects, NotebookLM systems, and knowledge tools designed around real business needs.
 
-### BiasBreaker
-An interactive learning experience that helps teams recognize bias in hiring decisions and practice more equitable evaluation.
+</td>
+<td width="50%" valign="top">
 
-### Transferable Skills Match
-An AI-assisted framework for translating experience across industries and identifying evidence-based skill alignment beyond job titles.
+### 🛡️ Responsible Adoption
+Governance, confidentiality, bias awareness, and clear boundaries for safe workplace AI use.
 
-## Training designed and delivered
+</td>
+</tr>
+</table>
 
-- AI for HR
-- AI Job Skills
-- Prompting Masterclass
-- AI Recruiter Training Deep Dive
-- AI Ethics, Governance, and Legal Considerations
-- AI, Ethics, and DEI
-- Getting Started with AI
-- AI for Google Workspace and Microsoft Office
-- Problem Framing with the Five-Layer Drill
+<br/>
 
-## Experience highlights
+## ✦ Featured builds
+
+| | Project | What it does |
+|:--:|---|---|
+| 👻 | **GhosterBuster** | Tracks candidate status changes, drafts timely updates, and marks exactly where recruiter approval is required before sending. |
+| 🎯 | **RecruitGPT Sourcer** | Turns job requirements into sourcing strategy, Boolean searches, target-company lists, and structured market research. |
+| 🤝 | **Hiring Manager Intake** | Converts stakeholder conversations into clearer role requirements, scorecards, and recruiting plans. |
+| ⚖️ | **BiasBreaker** | Helps teams recognize bias in hiring decisions and practice more equitable evaluation. |
+| 🔄 | **Transferable Skills Match** | Identifies evidence-based skill alignment across roles and industries—beyond job-title matching. |
+
+<br/>
+
+## ✦ Training portfolio
+
+<div align="center">
+
+![AI for HR](https://img.shields.io/badge/AI_for_HR-7C3AED?style=flat-square)
+![Prompting](https://img.shields.io/badge/Prompting_Masterclass-F97316?style=flat-square)
+![AI Job Skills](https://img.shields.io/badge/AI_Job_Skills-7C3AED?style=flat-square)
+![Recruiter Training](https://img.shields.io/badge/AI_Recruiter_Deep_Dive-F97316?style=flat-square)
+![Governance](https://img.shields.io/badge/Ethics_&_Governance-7C3AED?style=flat-square)
+![DEI](https://img.shields.io/badge/AI_&_DEI-F97316?style=flat-square)
+![Foundations](https://img.shields.io/badge/AI_Foundations-7C3AED?style=flat-square)
+![Problem Framing](https://img.shields.io/badge/5--Layer_Problem_Framing-F97316?style=flat-square)
+
+</div>
+
+<br/>
+
+<details>
+<summary><strong>📈 Experience highlights</strong></summary>
+<br/>
 
 - Partnered with Gusto's Co-Founder and CTO on AI and technical hiring strategy.
 - Managed a pipeline of 600+ AI candidates while supporting senior technical and business hiring.
@@ -67,7 +92,11 @@ An AI-assisted framework for translating experience across industries and identi
 - Reduced time to hire by 35% at Evidation.
 - Built recruiting and talent programs across Google, Salesforce, Amazon, Twitter, Walmart eCommerce, Yahoo, and high-growth startups.
 
-## AI credentials
+</details>
+
+<details>
+<summary><strong>🎓 AI credentials</strong></summary>
+<br/>
 
 - AI Strategy and Governance — University of Pennsylvania
 - AI for People Management — University of Pennsylvania
@@ -76,16 +105,22 @@ An AI-assisted framework for translating experience across industries and identi
 - IBM Generative AI Fundamentals
 - Salesforce Certified AI Associate
 
-## Tools
+</details>
+
+<details>
+<summary><strong>🧰 Tools</strong></summary>
+<br/>
 
 `ChatGPT` · `Claude` · `Gemini` · `NotebookLM` · `Make` · `n8n` · `Canva` · `HeyGen` · `Google Workspace` · `Greenhouse`
 
----
+</details>
+
+<br/>
 
 <div align="center">
 
 ### Learn AI without being an engineer.
 
-AI strategy, enablement, training, and workflow design for real people doing real work.
+**AI strategy • Enablement • Training • Workflow design**
 
 </div>
