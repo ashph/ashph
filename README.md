@@ -61,8 +61,7 @@ Governance, confidentiality, bias awareness, and clear boundaries for safe workp
 | 👻 | **GhosterBuster** | Tracks candidate status changes, drafts timely updates, and marks exactly where recruiter approval is required before sending. |
 | 🎯 | **[RecruiterGPT](https://github.com/ashph/recruiter-gpt)** | Trains recruiters on unfamiliar roles through plain-language explanations, terminology, skill signals, transferable backgrounds, and guided practice. |
 | 🤝 | **[Hiring Manager Intake](https://github.com/ashph/hiring-manager-intake)** | Cuts intake and calibration time by 70%, emailing a full role calibration, transferable skills, and working Boolean string in under two minutes. |
-| ⚖️ | **[BiasBreaker](https://github.com/ashph/biasbreaker)** | Compares job requirements with résumé evidence without ranking candidates, surfacing transferable skills plus suggested hiring and onboarding plans. |
-| 🔄 | **Transferable Skills Match** | Identifies evidence-based skill alignment across roles and industries—beyond job-title matching. |
+| ⚖️ | **[BiasBreaker / Transferable Skills Match](https://github.com/ashph/biasbreaker)** | Compares job requirements with résumé evidence without ranking candidates, surfacing transferable skills plus suggested hiring and onboarding plans. |
 
 <br/>
 
