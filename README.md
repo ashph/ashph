@@ -58,7 +58,7 @@ Governance, confidentiality, bias awareness, and clear boundaries for safe workp
 | | Project | What it does |
 |:--:|---|---|
 | 🎓 | **[Your Next Skill](https://github.com/ashph/your-next-skill)** | Helps professionals identify what AI skill to learn next and build practical, role-relevant skills through guided learning paths. |
-| 👻 | **GhosterBuster** | Tracks candidate status changes, drafts timely updates, and marks exactly where recruiter approval is required before sending. |
+| 👻 | **[GhosterBuster](https://github.com/ashph/ghosterbuster)** | Flags stale candidates, sends recruiter alerts with editable follow-up templates, and gives managers a pipeline dashboard. |
 | 🎯 | **[RecruiterGPT](https://github.com/ashph/recruiter-gpt)** | Trains recruiters on unfamiliar roles through plain-language explanations, terminology, skill signals, transferable backgrounds, and guided practice. |
 | 🤝 | **[Hiring Manager Intake](https://github.com/ashph/hiring-manager-intake)** | Cuts intake and calibration time by 70%, emailing a full role calibration, transferable skills, and working Boolean string in under two minutes. |
 | ⚖️ | **[BiasBreaker / Transferable Skills Match](https://github.com/ashph/biasbreaker)** | Compares job requirements with résumé evidence without ranking candidates, surfacing transferable skills plus suggested hiring and onboarding plans. |
